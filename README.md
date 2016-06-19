@@ -1,2 +1,2 @@
 # CG_Mobile
-Abgabe für Computergrafik
+Übung für Computergrafik
